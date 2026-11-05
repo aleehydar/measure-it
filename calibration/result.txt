@@ -1,0 +1,24 @@
+images read: 27
+boards used: 21
+boards skipped: 6
+image size: 1280x960
+square mm: 25.75 by 21.75
+rms reprojection error: 0.3928 px
+per image mean: 0.3769 px
+per image worst: 0.6134 px
+camera matrix:
+[[991.29164942   0.         641.71438159]
+ [  0.         991.17708077 476.13976009]
+ [  0.           0.           1.        ]]
+distortion:
+[ 2.47819815e-01 -1.25280852e+00  1.31118560e-03 -2.91236810e-04
+  1.92047473e+00]
+skipped:
+  WhatsApp Image 2026-11-06 at 1.18.10 AM (2).jpeg
+  WhatsApp Image 2026-11-06 at 1.18.11 AM (1).jpeg
+  WhatsApp Image 2026-11-06 at 1.18.11 AM (2).jpeg
+  WhatsApp Image 2026-11-06 at 1.18.11 AM.jpeg
+  WhatsApp Image 2026-11-06 at 1.18.12 AM (1).jpeg
+  WhatsApp Image 2026-11-06 at 1.18.12 AM.jpeg
+saved /home/ali-haidar/measure-it/calibration/camera.npz
+saved /home/ali-haidar/measure-it/calibration/undistorted_sample.jpg

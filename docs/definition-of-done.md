@@ -2,7 +2,7 @@
 
 Written before the work. A box gets ticked only when a number or a commit sits next to it.
 
-- [ ] Reprojection error reported, with the calibration image count.
+- [x] Reprojection error reported, with the calibration image count. 0.3928 px rms, 21 boards used out of 27 photos. calibration/result.txt
 - [ ] Test split file committed before training started.
 - [ ] Command runs on a new image and prints width and height in mm.
 - [ ] Accuracy table for 10 instances, raw outputs saved.
