@@ -13,7 +13,7 @@ The card is not the scale. The phone is not the answer. The error is the publish
 Order:
 
 1. These docs. About 30 minutes.
-2. Print a checkerboard with at least 7 by 9 inner corners, tape it to something rigid. I have no ruler, so the square size is whatever the PDF says, and I will write that it was not checked. Shoot 20 or more photos on the iPhone XR and calibrate with OpenCV. Save the camera matrix and distortion. About 90 minutes.
+2. Shops were closed, so there is no printed board. The checkerboard is calibration/checkerboard.html, full screen on this ProBook. It is 12 by 8 squares. I will photograph that screen with the iPhone XR, 20 times or more, and calibrate with OpenCV. I have no ruler, so the square size will come from the screen later, and I will say it was not checked with a ruler. Save the camera matrix and distortion. About 90 minutes.
 3. Shoot 70 or more photos of the Meezan card with the Infinix in the same frame. Same camera settings. Undistort, then label the card and the phone. About 2 hours. Split 70/20/10 and commit those file lists before training.
 4. Fine-tune torchvision DeepLabV3 with a MobileNet backbone. Two classes, card and phone. This machine is an HP ProBook 445 G7, so I am not training a heavy model. Not YOLO, not Roboflow. About 2 hours.
 5. One command. New photo in, undistort, segment, find the phone, print the card width and height in mm. About 90 minutes.
