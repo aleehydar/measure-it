@@ -1,0 +1,59 @@
+### WhatsApp Image 2026-11-06 at 2.05.42 AM (1).jpg
+width_mm=87.84
+height_mm=60.55
+card_mask_fraction=0.0574
+phone_mask_fraction=0.1483
+
+### WhatsApp Image 2026-11-06 at 2.05.32 AM (1).jpg
+width_mm=82.06
+height_mm=53.64
+card_mask_fraction=0.0606
+phone_mask_fraction=0.1782
+
+### WhatsApp Image 2026-11-06 at 2.05.47 AM.jpg
+width_mm=76.54
+height_mm=49.05
+card_mask_fraction=0.0447
+phone_mask_fraction=0.1613
+
+### WhatsApp Image 2026-11-06 at 2.05.38 AM.jpg
+width_mm=82.77
+height_mm=54.89
+card_mask_fraction=0.0980
+phone_mask_fraction=0.2782
+
+### WhatsApp Image 2026-11-06 at 2.05.46 AM.jpg
+width_mm=111.64
+height_mm=71.50
+card_mask_fraction=0.0635
+phone_mask_fraction=0.0987
+
+### WhatsApp Image 2026-11-06 at 2.05.44 AM.jpg
+width_mm=93.23
+height_mm=61.83
+card_mask_fraction=0.0769
+phone_mask_fraction=0.1730
+
+### WhatsApp Image 2026-11-06 at 2.05.29 AM.jpg
+width_mm=88.41
+height_mm=55.72
+card_mask_fraction=0.0633
+phone_mask_fraction=0.1678
+
+### WhatsApp Image 2026-11-06 at 2.05.37 AM.jpg
+width_mm=91.54
+height_mm=60.60
+card_mask_fraction=0.0782
+phone_mask_fraction=0.1944
+
+### WhatsApp Image 2026-11-06 at 2.05.26 AM (2).jpg
+width_mm=80.77
+height_mm=47.66
+card_mask_fraction=0.0808
+phone_mask_fraction=0.2721
+
+### WhatsApp Image 2026-11-06 at 2.05.25 AM.jpg
+width_mm=73.61
+height_mm=34.25
+card_mask_fraction=0.0426
+phone_mask_fraction=0.2276
