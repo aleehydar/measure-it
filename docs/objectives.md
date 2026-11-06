@@ -2,11 +2,11 @@
 
 ## MO-1
 
-What is measured: Error in the card's width and height, in millimetres, against a ruler.
-How: At least 10 photos. Each row is the ruler width, ruler height, system width, system height, and the absolute error. Then the mean absolute error, the mean percentage error, the median, and the worst case.
-Target: Mean absolute error of 1 mm or less on width and on height. The card is only about 54 mm on the short side, so an error bigger than 1 mm is a size I would not trust.
-Conditions: Brother's iPhone XR, main camera, zoom locked, indoor light, card and Infinix both flat and fully in frame, camera looking straight down.
-Not included: The card cut off by the frame, the phone partly hidden, or the phone tilted up off the table.
+What is measured: Error in the Meezan card's width and height, in millimetres, against the ID-1 size.
+How: At least 10 photos. Each row is 85.60 mm, 53.98 mm, the system width, the system height, and the absolute error. Then the mean absolute error, the mean percentage error, the median, and the worst case. The true size is the same on every row because I have no ruler.
+Target: Mean absolute error of 1 mm or less on width and on height. Past that, I would not trust the size.
+Conditions: Brother's iPhone XR, main camera, zoom locked, indoor light, card and Infinix both flat and fully in frame, camera looking straight down. Phone scale is the GSMArena body size, 165.7 mm by 77.1 mm, case off. Card truth is ISO ID-1, 85.60 mm by 53.98 mm.
+Not included: The card cut off by the frame, the phone partly hidden, the phone tilted up off the table, a case on the phone, or a card that is not a full-size debit card.
 
 ## MO-2
 

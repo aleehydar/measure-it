@@ -1,0 +1,14 @@
+n=9
+iou_bg=0.987037
+iou_card=0.941299
+iou_phone=0.968658
+name iou_card iou_phone
+WhatsApp Image 2026-11-06 at 2.05.42 AM (1).jpg 0.937557 0.964632
+WhatsApp Image 2026-11-06 at 2.05.32 AM (1).jpg 0.901911 0.971083
+WhatsApp Image 2026-11-06 at 2.05.47 AM.jpg 0.938368 0.967947
+WhatsApp Image 2026-11-06 at 2.05.38 AM.jpg 0.960568 0.978941
+WhatsApp Image 2026-11-06 at 2.05.46 AM.jpg 0.951894 0.946770
+WhatsApp Image 2026-11-06 at 2.05.44 AM.jpg 0.946764 0.969259
+WhatsApp Image 2026-11-06 at 2.05.29 AM.jpg 0.950905 0.970220
+WhatsApp Image 2026-11-06 at 2.05.37 AM.jpg 0.955734 0.970873
+WhatsApp Image 2026-11-06 at 2.05.26 AM (2).jpg 0.927990 0.978200
